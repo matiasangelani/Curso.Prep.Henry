@@ -1,0 +1,6 @@
+Conceptos
+
+- for: el bucle for lo que permite es poder realizar un loop de la tarea dada una condición.
+- &&: es el operador lógico "AND", deben cumplirse todaas las condiciones a la vez para que resulte verdadero.
+- ||: operador lógico "OR", con que solo una de las condiciones se cumpla esta resultará verdadera.
+- !: operador lógico "NOT", niega el resultado de la condición que fue dada.
