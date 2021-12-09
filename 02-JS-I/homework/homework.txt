@@ -1,0 +1,7 @@
+Conceptos
+
+- Variables: una variable es como una caja donde uno puede guardar o almacenar diferentes tipos de datos, llámese strings, enteros, booleanos, etc.
+- Strings: un string (cadena de caracteres) es un tipo de dato el cual se utiliza para variables que deben contener texto
+- Funciones: una función es un "pedazo" de código el cual se encuentra separado del código principal, realiza una tarea específica y devuelve (o no) un dato. Un argumento es una variable que recibe (o no) la función para poder realizar su tarea, luego return es una sentencia la cual se encarga de devolver el resultado obtenido por la función. 
+- if: if lo que hace es, basándose en una condición, decidir que parte del código es la que se ejecutará.
+- Valores booleanos: son valores lógicos los cuales pueden interpretarse por verdadero y falso o 0 y 1 o si y no, ayudan mayormente a verificar estados y condiciones.
