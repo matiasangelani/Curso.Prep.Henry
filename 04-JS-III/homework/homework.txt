@@ -1,0 +1,5 @@
+Conceptos
+
+- Arrays: los arrays son listas de elementos los cuales cuales pueden ser del mismo tipo o no, 
+            estar ordenados o no y a su vez podemos operar independientemente con cada elemento 
+            que se encuentra en esa lista.
