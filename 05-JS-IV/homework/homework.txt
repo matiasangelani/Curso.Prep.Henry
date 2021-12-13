@@ -1,0 +1,18 @@
+Conceptos
+
+- Propiedades: las propiedades de los objetos son características propias que les podemos dar para identificar 
+    valores de él, como podría ser el DNI de un alumno, el color de un auto, el tamaño, etc. Y a diferencia de 
+    los arrays que tiene índices numéricos, los objetos nos permiten con sus propiedades realizar estructuras 
+    más elaboradas y cómodas.
+
+- Métodos: los métodos son acciones que pueden realizar los objetos (sinónimo de funciones), por ejemplo,
+    un objeto auto podría tener el método "encender", "doblar", etc.
+
+- Bucle `for…in`: es una sentencia iterativa que nos permite recorrer un objeto, mayormente para mostrarlo, 
+    identificar los propiedades que posee un objeto desconocido, comparar valores con alguna propiedad 
+    desconocida.
+
+- Notación de puntos vs notación de corchetes: la notación de puntos sirve para acceder rápidamente a las 
+    propiedades de los objetos, modificar sus valores, eliminarlas. En cambio la notación de corchetes además 
+    de lo anteriormente mencionado permite por ejemplo usar parámetros de funciones los cuales contienen el 
+    nombre de la propiedad y que con la notación de puntos sería imposible de acceder.
